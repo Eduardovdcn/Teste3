@@ -1,4 +1,5 @@
-! [ -e /content ] && pip install -Uqq fastbook && pip install streamlit
+pip install -Uqq fastbook 
+pip install streamlit
 import fastbook
 fastbook.setup_book()
 

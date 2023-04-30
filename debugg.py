@@ -1,5 +1,3 @@
-pip install -Uqq fastbook 
-pip install streamlit
 import fastbook
 fastbook.setup_book()
 
